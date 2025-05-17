@@ -24,7 +24,7 @@
 # Format under revision
 meta:
   title: "My S-Parameter Measurement"
-  author: "Jayaram"
+  author: "scikit-mmWave"
   date: "2025-05-17"
   ports: 2
   comments: "Measured at lab with 10 MHz spacing"
