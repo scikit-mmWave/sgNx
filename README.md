@@ -1,4 +1,4 @@
-# OpenSignalExchange Format (.sgNx)
+# OpenSignal Format (.sgNx)
 
 **.sgNx** is a human-readable, open-source data format designed for efficient and flexible exchange of frequency-domain RF and microwave signal data, such as S-parameters. It is intended to be easy to parse in both MATLAB and Python without requiring any external libraries or complex parsing logic.
 
